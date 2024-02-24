@@ -1,5 +1,4 @@
-# CodeWay_Task_1
-A To-Do-List Application
+# A To-Do-List Application
 
 A To-Do List application is an useful application that helps users manage
 and organize their tasks efficiently. This project aims to create a
